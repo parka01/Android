@@ -25,5 +25,13 @@ public class MainActivity extends AppCompatActivity {
         //setContentView(R.layout.ex04_14);
         //setContentView(R.layout.ex04_15);
         //setContentView(R.layout.ex04_16);
+        //setContentView(R.layout.ex04_17);
+        //setContentView(R.layout.ex04_19);
+        //setContentView(R.layout.ex04_24);
+        //setContentView(R.layout.ex04_25);
+        //setContentView(R.layout.ex04_26);
+        //setContentView(R.layout.ex04_27);
+        //setContentView(R.layout.ex04_28);
+        setContentView(R.layout.ex04_29);
     }
 }
